@@ -1,1 +1,1 @@
-I coded that scripts to learn Bash scripting language I hope it will be usefull for anyone. 
+I coded this scripts to learn Bash scripting language I hope it will be usefull for anyone. 
